@@ -1,0 +1,26 @@
+{
+  "name": "duckyc.me",
+  "version": "0.0.1",
+  "description": "source for http://duckyc.me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DuckyC/duckyc.me.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "DuckyC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DuckyC/duckyc.me/issues"
+  },
+  "homepage": "https://github.com/DuckyC/duckyc.me",
+  "dependencies": {
+    "diet": "^0.9.1",
+    "diet-auth": "^1.2.1"
+  }
+}
