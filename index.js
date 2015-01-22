@@ -6,7 +6,7 @@ var server = require("diet")
 var app = server()
 var auth  = require('diet-auth')(app)
     
-app.listen("http://localhost:8000")
+app.listen("http://localhost:3000")
 
 var dir = path.join(__dirname, "routes")
 fs.readdirSync(dir).forEach(function(file) {
