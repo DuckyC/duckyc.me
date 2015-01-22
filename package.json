@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/DuckyC/duckyc.me",
   "dependencies": {
-    "diet": "^0.9.1",
-    "diet-auth": "^1.2.1"
+    "diet": "0.9.1",
+    "diet-auth": "1.2.1",
+    "git-pull": "0.1.0"
   }
 }
